@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PhoneAuth0918</string>
+    <string name="status_code_sent" />
+    <string name="status_verification_failed" />
+    <string name="status_verification_succeeded" />
+    <string name="instant_validation" />
+    <string name="status_sign_in_failed" />
+    <string name="signed_out" />
+    <string name="signed_in" />
+    <string name="firebase_status_fmt" />
+</resources>
